@@ -6,7 +6,7 @@
 <p>
 I'm a MERN Stack developer with a passion for creating engaging and user-friendly interfaces. Currently pursuing my MCA, I'm dedicated to expanding my knowledge in the dynamic world of technology.</p>
 <img align="right" alt="ciding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-- 🌱 I’m currently learning **HTML CSS JAVASCRIPT REACT JS Node JS Express JS and MongoDB**
+- 🌱 I’m currently learning *HTML CSS JAVASCRIPT REACTJS NodeJS ExpressJS MongoDB*
 
 - 📫 How to reach me **sumitshar2452@gmail.com**
 
@@ -19,7 +19,12 @@ I'm a MERN Stack developer with a passion for creating engaging and user-friendl
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/CKDnnxsb/a791bf601b4457fe9077ac8b35cab835.png" alt="react" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/FFnRZTQs/pngwing-com.png" alt="react" width="40" height="40"/> </a>
+<p align="left"> 
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/FFnRZTQs/pngwing-com.png" alt="react" width="40" height="40"/> </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/CKDnnxsb/a791bf601b4457fe9077ac8b35cab835.png" alt="react" width="50" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/3JhHTp7Q/pngegg.png" alt="react" width="40" height="40"/> </a>  
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>   
 </p>
